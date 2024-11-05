@@ -1,0 +1,13 @@
+name: dogmaR_app
+title: project
+username: 3vz7bp-david-faurdal
+account: 3vz7bp-david-faurdal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13236222
+bundleId: 9317464
+url: https://3vz7bp-david-faurdal.shinyapps.io/dogmaR_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01_hello.R|02_virtual_gene_generator.R
